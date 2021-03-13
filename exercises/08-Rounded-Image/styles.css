@@ -1,6 +1,16 @@
 body {
 	background: #bdbdbd;
 }
+
+#Marco {
+	background-color: aqua;
+	width: 23%;
+	margin: auto;
+}
+
 .rounded {
 	border-radius: 100%;
+	width: 100%;
+	margin: auto;
+	padding: 0%;
 }

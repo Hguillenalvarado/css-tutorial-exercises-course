@@ -1,1 +1,29 @@
 /* add your styles here */
+h1 {
+	font-family: "Courier New", Courier, monospace;
+	color: red;
+	text-align: center;
+}
+
+h2,
+p,
+ol li,
+ul li {
+	font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+body {
+	padding: 0 20px 0 0;
+	background-image: url(https://github.com/4GeeksAcademy/css-tutorial-exercises-course/blob/master/.learn/assets/background-vertical.jpg?raw=true);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#id1 {
+	background-color: blue;
+	padding: 5px;
+}

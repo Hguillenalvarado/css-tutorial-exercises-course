@@ -9,7 +9,18 @@ body {
 	color: blue;
 }
 
-ul li,
+ul li {
+	color: red;
+}
 ol li {
 	color: green;
+}
+#teacher {
+	background-color: royalblue;
+	padding: 5px;
+	margin-right: 800px;
+}
+
+tr:nth-child(even) {
+	background-color: yellowgreen;
 }
